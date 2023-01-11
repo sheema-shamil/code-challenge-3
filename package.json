@@ -1,0 +1,19 @@
+{
+  "name": "phase-1-week-3-code-challenge-flatdango",
+  "version": "1.0.0",
+  "description": "Flatdango project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "bootstrap",
+    "css",
+    "Flatdango"
+  ],
+  "author": "prince",
+  "license": "ISC"
+}
