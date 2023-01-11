@@ -43,7 +43,7 @@ If any problems arise check and confirm you have json-server installed, initiali
 
 # Authors
 This project was contributed to by:
-- [Richard Ngeti](https://github.com/richard200/)
+- [Sheema Shamil](https://github.com/sheema-shamil/)
 
 # License
 The project is licensed under ISC.
